@@ -88,5 +88,4 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
-
-Projet10/Reciplease/Reciplease/Model/APIKey.swift
+Reciplease/Reciplease/Model/APIKey.swift
