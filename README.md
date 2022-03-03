@@ -3,7 +3,8 @@ Créez l'application Reciplease... pour de bons petits plats ! <p></p>
 Parcours Développeur d'application - iOS <p></p>
 API key dans le git ignore -> projet fonctionnel <p></p>
 <p></p> 
-# Reciplease<p></p>
+
+# Reciplease <p></p>
 This project is for my school OpenclassRooms
 <p></p>
 The application is a exercice for learn Alamofire and Core Data
