@@ -15,10 +15,9 @@ The application is used to : <br />
 - Save in favorite the best recipes <br />
 <p> </p>
 
-<img src="Project/ScreenTwitch.png" widht="200" height="400" >
-<img src="ScreenShot/ScreenSideMenu.png" widht="200" height="400" >
-<img src="ScreenShot/ScreenYoutube.png" widht="200" height="400" >
-<img src="ScreenShot/ScreenYoutube2.png" widht="200" height="400" >
-<img src="ScreenShot/ScreenInstagram.png" widht="200" height="400" >
-<img src="ScreenShot/ScreenSong.png" widht="200" height="400" >
+<img src="Project10ScreenShoot/AcceuilScreen.png" widht="200" height="400" >
+<img src="Project10ScreenShoot/ListeScreen.png" widht="200" height="400" >
+<img src="Project10ScreenShoot/DetailsScreen.png" widht="200" height="400" >
+<img src="Project10ScreenShoot/FavoriteScreen.png" widht="200" height="400" >
+
 
